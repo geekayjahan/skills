@@ -6,5 +6,6 @@ Hence the skill creator skill created based on Annthropic's guide to creating sk
 
 Some recommended skills:
 1/ https://www.skills.sh/anthropics/skills/frontend-design
+
 2/ https://www.skills.sh/anthropics/skills/skill-creator
 
